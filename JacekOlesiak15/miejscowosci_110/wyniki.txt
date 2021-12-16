@@ -1,0 +1,51 @@
+1)
+
+913
+
+2)
+
+typ_miejscowosci	ilosc
+kolonia			10
+miasto			3
+osada			47
+osada lesna		12
+przysiolek		1
+wies			148
+
+3)
+
+nazwa_powiatu	nazwa_wojewodztwa
+bielski		podlaskie
+bielski		slaskie
+brzeski		malopolskie
+brzeski		opolskie
+grodziski	mazowieckie
+grodziski	wielkopolskie
+krosnienski	lubuskie
+krosnienski	podkarpackie
+nowodworski	mazowieckie
+nowodworski	pomorskie
+opolski		lubelskie
+opolski		opolskie
+ostrowski	mazowieckie
+ostrowski	wielkopolskie
+sredzki		dolnoslaskie
+sredzki		wielkopolskie
+swidnicki	dolnoslaskie
+swidnicki	lubelskie
+tomaszowski	lodzkie
+tomaszowski	lubelskie
+
+4)
+
+92
+
+5)
+
+nazwa_gminy		nazwa_powiatu		nazwa_wojewodztwa
+Jawor			jaworski		dolnoslaskie
+Jedlina-Zdroj		walbrzyski		dolnoslaskie
+Jelenia Gora		Jelenia Gora		dolnoslaskie
+Jastarnia		pucki			pomorskie
+Jastrzebie-Zdroj	Jastrzebie-Zdroj	slaskie
+Jaworzno		Jaworzno		slaskie

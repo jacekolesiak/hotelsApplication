@@ -1,0 +1,35 @@
+1)
+
+Nazwisko	Imie
+Badowski	Fryderyk
+Barszcz		Tomasz
+Makowicz	Magda
+Nowak		Pawel
+Nowakowski	Marek
+Rybicka		Maria
+Wysocka		Justyna
+
+2)
+
+wiedza o spoleczenstwie	8
+
+3)
+
+3 przedmioty
+
+Bajda		Maria	
+Baranska	Joanna	
+Zalicki		Marcin	
+
+4)
+
+jezyk lacinski i kultura antyczna
+
+5)
+
+
+Marek	Nowakowski	informatyka
+
+6)
+
+180
